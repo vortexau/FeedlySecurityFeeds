@@ -80,7 +80,8 @@
             <outline type="rss" text="Help Net Security" title="Help Net Security" xmlUrl="http://feeds2.feedburner.com/HelpNetSecurity" htmlUrl="https://www.helpnetsecurity.com"/>
             <outline type="rss" text="Threatpost" title="Threatpost" xmlUrl="http://threatpost.com/en_us/rss.xml" htmlUrl="http://threatpost.com"/>
             <outline type="rss" text="0 Day News ≈ Packet Storm" title="0 Day News ≈ Packet Storm" xmlUrl="https://rss.packetstormsecurity.com/news/tags/zero_day" htmlUrl="https://packetstormsecurity.com/"/>
-            <outline type="rss" text="Windows Security" title="Windows Security" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://blogs.technet.microsoft.com/mmpc"/>
+	    <outline type="rss" text="Windows Security" title="Windows Security" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://blogs.technet.microsoft.com/mmpc"/>
+	    <outline type="rss" text="HackerOne Zero Daily" title="HackerOne Zero Daily" xmlUrl="https://www.hackerone.com/zerodaily.rss" htmlUrl="https://www.hackerone.com/zerodaily"/>
         </outline>
     </body>
 </opml>
